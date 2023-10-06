@@ -17,3 +17,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 # java-classes-iphone
+![Mind Maps](https://github.com/Ikaro444/java-classes-iphone/assets/133375076/320470a9-4a36-4a2c-bfc2-a214f9cbca0e)
